@@ -7,7 +7,7 @@ public class DefaultAddition implements Addinterface {
 	@Override
 	public int add(int n1, int n2) {
 		// TODO Auto-generated method stub
-		return 0;
+		return n1+n2;
 	}
 
 }

@@ -21,12 +21,7 @@ import com.sonata.impl.*;
 			Assertions.assertEquals(5000,b)
 		;
 		}
-/*@Test
-		public void addTest2(){
-			calculator c2=new calculator();
-			Assertions.assertEquals(110,c2.sum(100,10));
-			Assertions.assertEquals(1000,c2.mul(100,10));
-		}*/
+
 		@Test
 		public void addTest1(){
 			

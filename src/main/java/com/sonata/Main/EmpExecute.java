@@ -11,6 +11,8 @@ public class EmpExecute {
 		e1.setEmpid(123);
 		e1.setName("sid");
 		e1.setSal(10001);
+		e2.appsal(e1);
+		e2.yearlysal(e1);
 		
 
 	}

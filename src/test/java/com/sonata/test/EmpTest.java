@@ -7,11 +7,16 @@ import org.junit.jupiter.api.Assertions;
 
 
 
-	public class EmpTest {
+	 class EmpTest {
 		@Test
-		public void addTest(){
+		 void addTest(){
 			
 			Empiml c1=new Empiml();
+			
+			
+			
+			
+			
 			Employee1 e1=new Employee1();
 			e1.setSal(1000);
 			double a= c1.yearlysal(e1);
@@ -22,7 +27,7 @@ import org.junit.jupiter.api.Assertions;
 		}
 
 		@Test
-		public void addTest1(){
+		void addTest1(){
 			
 			Empiml c1=new Empiml();
 			Employee1 e1=new Employee1();
@@ -34,6 +39,6 @@ import org.junit.jupiter.api.Assertions;
 		;
 		}
 
-
+//test//
 	}
 

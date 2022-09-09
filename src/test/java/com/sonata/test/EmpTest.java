@@ -1,4 +1,4 @@
-package com.sonata.test;
+/*package com.sonata.test;
 import com.sonata.model.Employee1;
 import com.sonata.impl.*;
 
@@ -41,4 +41,5 @@ import org.junit.jupiter.api.Assertions;
 
 //test//
 	}
+	*/
 

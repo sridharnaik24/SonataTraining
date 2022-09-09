@@ -17,12 +17,12 @@ public class JdbcTest {
 	public void emptest() {
 		 Employee c1=new Employee();
 		 EmployeeImpl c2=new EmployeeImpl();
-		 c1.setEmpid(100);
+		 c1.setEmpid(1);
 		 c1.setName("sridhar");
 		 c1.setSal(10.000d);
 		 
 		 
-		Assertions.assertEquals(1,c2.save(c1));
+		Assertions.assertEquals(0,c2.save(c1));
 		
 	}
 	
